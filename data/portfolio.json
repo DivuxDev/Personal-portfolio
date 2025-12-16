@@ -1,0 +1,110 @@
+{
+    "name": "David Prado",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm David Prado ",
+    "headerTaglineThree1": "It Administrator",
+    "headerTaglineThree2": "Web developer",
+    "headerTaglineFour": " Based in Santander, Spain.",
+    "showCursor": false,
+    "showBlog": false,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/divuxdev"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/davidpradomejuto/"
+        },
+        {
+            "id": "3",
+            "title": "Email",
+            "link": "mailto:david.prado.mejuto@gmail.com"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Uno Counter with PHP",
+            "description": "Web Development",
+            "imageSrc": "https://iili.io/2GCKhJ4.png",
+            "url": "https://github.com/DivuxDev/UNOcounter"
+        },
+        {
+            "id": "2",
+            "title": "RC laptimer with laravel",
+            "description": "Web Development",
+            "imageSrc": "https://github.blog/wp-content/uploads/2022/03/1200x630-GitHub-1.png?resize=1600%2C850",
+            "url": "https://github.com/DivuxDev/Laptimer-DAW2-TFG"
+        },
+        {
+            "id": "3",
+            "title": "Issues Management with laravel",
+            "description": "Web Development",
+            "imageSrc": "https://github.blog/wp-content/uploads/2022/03/1200x630-GitHub-1.png?resize=1600%2C850",
+            "url": "https://github.com/DivuxDev/GestionIncidencias"
+        }
+    ],
+    "services": [],
+    "aboutpara": "Motivated and adaptable IT professional with a solid foundation in web development and systems administration. Skilled in Java, JavaScript, PHP, Laravel, and Vue for creating dynamic, efficient web applications. \n Experienced in managing infrastructures using AWS, Cisco, and Active Directory, with hands-on expertise in server administration and network management. I thrive in dynamic environments, consistently delivering clean, maintainable solutions, and I am passionate about leveraging technology to solve complex challenges.",
+    "resume": {
+        "tagline": "👋  I'm a It Administrator and Web developer.",
+        "description": "Starting from the ground up, I have honed my skills by working with technologies like Vue, Laravel, TypeScript, and PHP, while also gaining experience in building infrastructures using AWS, Cisco and Mikrotik systems, and Active Directory.",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "April 2024 - Present",
+                "type": "Full Time",
+                "position": "Frontend Developed at CIC",
+                "bullets": "Vue.js, TypeScript, Websockets, Git"
+            },
+            {
+                "id": "2",
+                "dates": "June 2022 - September 2022 & June 2023 - September 2023",
+                "type": "Full Time",
+                "position": "Network and Systems Administrator at Diego Dareco S.L",
+                "bullets": "Sophos, Synology, Active Directory, Wordpress"
+            },
+            {
+                "id": "3",
+                "dates": "June 2021 - October 2021 & March 2022 - June 2022",
+                "type": "Full Time",
+                "position": "Network and Systems Administrator at Maderas Jose Saiz S.L",
+                "bullets": "Sophos, Active Directory, Mikrotik, Fiber Optic"
+            }
+        ],
+        "education": [
+            {
+                "universityName": "IES Miguel Herrero (ASIR) - Network and Systems Administrator",
+                "universityDate": "2020-2022",
+                "universityPara": "Proficient in server administration, AWS cloud solutions, and network management, with hands-on experience in configuring and maintaining IT infrastructures."
+            },
+            {
+                "universityName": "IES Miguel Herrero (DAW) - Web development",
+                "universityDate": "2022-2024",
+                "universityPara": "Skilled in web development with expertise in Java, JavaScript, PHP, and the Laravel framework. Proficient in building dynamic, scalable web applications and crafting clean, maintainable code for both front-end and back-end systems."
+            }
+        ],
+        "languages": [
+            "Javascript",
+            "HTML5",
+            "CSS",
+            "php",
+            "java"
+        ],
+        "frameworks": [
+            "Vue",
+            "Typescript",
+            "Laravel"
+        ],
+        "others": [
+            "Sophos",
+            "Cisco",
+            "AWS"
+        ]
+    }
+}
