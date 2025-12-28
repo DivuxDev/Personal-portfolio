@@ -31,22 +31,9 @@
             "id": "1",
             "title": "Uno Counter with PHP",
             "description": "Web Development",
-            "imageSrc": "https://iili.io/2GCKhJ4.png",
-            "url": "https://github.com/DivuxDev/UNOcounter"
-        },
-        {
-            "id": "2",
-            "title": "RC laptimer with laravel",
-            "description": "Web Development",
-            "imageSrc": "https://github.blog/wp-content/uploads/2022/03/1200x630-GitHub-1.png?resize=1600%2C850",
-            "url": "https://github.com/DivuxDev/Laptimer-DAW2-TFG"
-        },
-        {
-            "id": "3",
-            "title": "Issues Management with laravel",
-            "description": "Web Development",
-            "imageSrc": "https://github.blog/wp-content/uploads/2022/03/1200x630-GitHub-1.png?resize=1600%2C850",
-            "url": "https://github.com/DivuxDev/GestionIncidencias"
+            "imageSrc": "/images/unoTracketLogo.png",
+            "url": "https://github.com/DivuxDev/UNOcounter",
+            "demo" : "https://uno-counter.davidprado.dev/"
         }
     ],
     "services": [],
