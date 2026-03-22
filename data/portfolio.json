@@ -34,6 +34,31 @@
             "imageSrc": "/images/unoTracketLogo.png",
             "url": "https://github.com/DivuxDev/UNOcounter",
             "demo" : "https://uno-counter.davidprado.dev/"
+        },
+        
+        {
+            "id": "2",
+            "title": "Frontend template with Vue ",
+            "description": "Web Development",
+            "imageSrc": "/images/frontendbase.png",
+            "url": "https://github.com/DivuxDev/vue-base-template",
+            "demo" : "https://front-base.davidprado.dev/"
+        },
+        {
+            "id": "3",
+            "title": "Photo Gallery with Next.js",
+            "description": "Web Development",
+            "imageSrc": "/images/photogallery.png",
+            "url": "https://github.com/DivuxDev/motorsport-gallery",
+            "demo" : "https://galeria.davidprado.dev/"
+        },
+        {
+            "id": "4",
+            "title": "You are the best (San Valentin's Day project) with React",
+            "description": "Web Development",
+            "imageSrc": "/images/youarethebest.png",
+            "url": "https://github.com/DivuxDev/you-are-the-best",
+            "demo" : "https://you-r-the-best.davidprado.dev/"
         }
     ],
     "services": [],
