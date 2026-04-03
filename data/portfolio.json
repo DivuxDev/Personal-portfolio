@@ -59,6 +59,14 @@
             "imageSrc": "/images/youarethebest.png",
             "url": "https://github.com/DivuxDev/you-are-the-best",
             "demo" : "https://you-r-the-best.davidprado.dev/"
+        },
+        {
+            "id": "5",
+            "title": "Wikiloc GPX Downloader",
+            "description": "Web Development",
+            "imageSrc": "/images/wikiloc-gpx-downloader.png",
+            "url": "https://github.com/DivuxDev/wikilok-gpx-downloader",
+            "demo": "https://wikiloc-gpx-downloader.davidprado.dev/"
         }
     ],
     "services": [],
