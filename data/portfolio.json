@@ -67,6 +67,14 @@
             "imageSrc": "/images/wikiloc-gpx-downloader.png",
             "url": "https://github.com/DivuxDev/wikilok-gpx-downloader",
             "demo": "https://wikiloc-gpx-downloader.davidprado.dev/"
+        },
+        {
+            "id": "6",
+            "title": "Tagmap",
+            "description": "Web Development",
+            "imageSrc": "/images/tagmap.png",
+            "url": "https://github.com/divuxdev/tagmap",
+            "demo": "https://lineas.davidprado.dev/"
         }
     ],
     "services": [],
