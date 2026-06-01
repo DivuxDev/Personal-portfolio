@@ -52,16 +52,9 @@
             "url": "https://github.com/DivuxDev/motorsport-gallery",
             "demo" : "https://galeria.davidprado.dev/"
         },
+        
         {
             "id": "4",
-            "title": "You are the best (San Valentin's Day project) with React",
-            "description": "Web Development",
-            "imageSrc": "/images/youarethebest.png",
-            "url": "https://github.com/DivuxDev/you-are-the-best",
-            "demo" : "https://you-r-the-best.davidprado.dev/"
-        },
-        {
-            "id": "5",
             "title": "Wikiloc GPX Downloader",
             "description": "Web Development",
             "imageSrc": "/images/wikiloc-gpx-downloader.png",
@@ -69,7 +62,7 @@
             "demo": "https://wikiloc-gpx-downloader.davidprado.dev/"
         },
         {
-            "id": "6",
+            "id": "5",
             "title": "Tagmap",
             "description": "Web Development",
             "imageSrc": "/images/tagmap.png",
